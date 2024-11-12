@@ -1,0 +1,277 @@
+[
+  {
+    "name": "São Paulo",
+    "main": {
+      "temp": 25.0
+    },
+    "weather": [
+      {
+        "description": "Nublado"
+      }
+    ]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "main": {
+      "temp": 30.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Belo Horizonte",
+    "main": {
+      "temp": 22.0
+    },
+    "weather": [
+      {
+        "description": "Parcialmente Nublado"
+      }
+    ]
+  },
+  {
+    "name": "Salvador",
+    "main": {
+      "temp": 28.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Fortaleza",
+    "main": {
+      "temp": 29.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Brasília",
+    "main": {
+      "temp": 24.0
+    },
+    "weather": [
+      {
+        "description": "Nublado"
+      }
+    ]
+  },
+  {
+    "name": "Curitiba",
+    "main": {
+      "temp": 18.0
+    },
+    "weather": [
+      {
+        "description": "Chuvoso"
+      }
+    ]
+  },
+  {
+    "name": "Manaus",
+    "main": {
+      "temp": 32.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado com nuvens"
+      }
+    ]
+  },
+  {
+    "name": "Porto Alegre",
+    "main": {
+      "temp": 20.0
+    },
+    "weather": [
+      {
+        "description": "Nublado"
+      }
+    ]
+  },
+  {
+    "name": "Recife",
+    "main": {
+      "temp": 27.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Belém",
+    "main": {
+      "temp": 31.0
+    },
+    "weather": [
+      {
+        "description": "Nublado com pancadas de chuva"
+      }
+    ]
+  },
+  {
+    "name": "Goiânia",
+    "main": {
+      "temp": 26.0
+    },
+    "weather": [
+      {
+        "description": "Parcialmente Nublado"
+      }
+    ]
+  },
+  {
+    "name": "São Luís",
+    "main": {
+      "temp": 30.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado com nuvens"
+      }
+    ]
+  },
+  {
+    "name": "Maceió",
+    "main": {
+      "temp": 29.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Natal",
+    "main": {
+      "temp": 28.0
+    },
+    "weather": [
+      {
+        "description": "Parcialmente Nublado"
+      }
+    ]
+  },
+  {
+    "name": "Campo Grande",
+    "main": {
+      "temp": 23.0
+    },
+    "weather": [
+      {
+        "description": "Nublado com chuva"
+      }
+    ]
+  },
+  {
+    "name": "Teresina",
+    "main": {
+      "temp": 33.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "João Pessoa",
+    "main": {
+      "temp": 27.0
+    },
+    "weather": [
+      {
+        "description": "Parcialmente Nublado"
+      }
+    ]
+  },
+  {
+    "name": "Aracaju",
+    "main": {
+      "temp": 28.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado com nuvens"
+      }
+    ]
+  },
+  {
+    "name": "Boa Vista",
+    "main": {
+      "temp": 34.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Porto Velho",
+    "main": {
+      "temp": 31.0
+    },
+    "weather": [
+      {
+        "description": "Nublado com pancadas de chuva"
+      }
+    ]
+  },
+  {
+    "name": "Florianópolis",
+    "main": {
+      "temp": 19.0
+    },
+    "weather": [
+      {
+        "description": "Chuvoso"
+      }
+    ]
+  },
+  {
+    "name": "Macapá",
+    "main": {
+      "temp": 32.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Palmas",
+    "main": {
+      "temp": 35.0
+    },
+    "weather": [
+      {
+        "description": "Ensolarado"
+      }
+    ]
+  },
+  {
+    "name": "Rio Branco",
+    "main": {
+      "temp": 29.0
+    },
+    "weather": [
+      {
+        "description": "Nublado"
+      }
+    ]
+  }
+]
